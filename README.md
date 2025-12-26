@@ -1,5 +1,7 @@
 # Swing Stock Checker
 
+스윙기타 B-stock 몰의 재고를 체크하는 프로그램입니다.
+
 ## Backend
 
 ### 로컬에서 실행하기
